@@ -1,4 +1,4 @@
-## Function to compute the inverse of matrix
+## Function to generate matrix
 
 makeCacheMatrix <- function(x = matrix()) {
                m <- NULL
@@ -16,7 +16,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Write a short comment describing this function
+## Function to compute inverse of matrix
 
 cacheSolve <- function(x, ...) {
         m <- x$getinverse()
