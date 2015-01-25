@@ -1,5 +1,3 @@
-
-
 ## Function to compute the inverse of matrix
 
 makeCacheMatrix <- function(x = matrix()) {
